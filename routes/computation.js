@@ -10,7 +10,7 @@ router.get('/', function(req, res, next) {
 
     var num1=Math.floor(Math.random()*10)
 
-    var num2=Math.floor(Math.random())
+    var num2=(Math.random())
 
     var num3=Math.floor(Math.random()*10)
 
